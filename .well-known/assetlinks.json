@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.irotheangel.twa",
+    "sha256_cert_fingerprints": ["3F:66:3F:8D:92:E6:74:29:EA:11:ED:F0:B6:2E:95:7D:72:48:60:F9:35:CB:B7:61:8C:25:0F:7D:2D:54:8E:23"]
+  }
+}]
